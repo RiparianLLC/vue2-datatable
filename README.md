@@ -1,5 +1,4 @@
-# vue2-datatable-component
-
+# Riparian/vue2-datatable-component 
 [![npm version][npm-v-img]][npm-url]
 [![npm download][npm-dl-img]][npm-url]
 [![build][build-img]][build-url]
